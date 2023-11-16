@@ -1,1 +1,2 @@
-# weather_app
+# weatherapp
+Weather app using django
